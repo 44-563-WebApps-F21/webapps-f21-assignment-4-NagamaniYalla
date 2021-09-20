@@ -59,3 +59,22 @@ tr:nth-child(even) {
     border: solid 2px rgb(158, 126, 143);
 
 }
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    float:left;
+    color:#000;
+    background-color: rgb(75, 4, 4);
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding:8px;
+    color: rgba(231, 231, 61, 0.911);
+}
+ul.navbar-horizontal a:hover {
+    background-color: darkslateblue;
+    color:rgb(49, 40, 131);
+}
