@@ -1,0 +1,33 @@
+.speech{
+
+    font-family: Georgia;
+    font-size:16px;
+    color:black;
+
+
+}
+.stage-direction{
+    font-family: 'Courier New';
+    color:black;
+    font-size:16px ;
+    background-color: cyan;
+}
+.name{
+    font-family: 'Times New Roman';
+    color:black;
+    font-size:16px ;
+
+}
+.stage-direction:hover{
+    color:brown;
+    background-color:khaki;
+}
+.PHIPPS{
+    color:darkgreen
+}
+.SIR ROBERT CHILTERN{
+    color:darkred
+}
+.LORD GORING{
+    color:rgb(158, 126, 143)
+}
