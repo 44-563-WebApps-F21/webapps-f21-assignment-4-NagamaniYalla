@@ -53,7 +53,7 @@ tr:nth-child(even) {
     color:tomato;
 }
 .name:hover{
-    text-shadow: 2px 4px 3px rgba(red, green, blue, alpha) ;
+    text-shadow: 2px 4px 3px rgb(230, 233, 38) ;
     color:rgb(142, 243, 10);
     filter: blue(3px);
     border: solid 2px rgb(158, 126, 143);
