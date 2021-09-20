@@ -52,3 +52,10 @@ tr:nth-child(even) {
 .MRSCHEVELEY{
     color:tomato;
 }
+.name:hover{
+    text-shadow: 2px 4px 3px rgba(red, green, blue, alpha) ;
+    color:rgb(142, 243, 10);
+    filter: blue(3px);
+    border: solid 2px rgb(158, 126, 143);
+
+}
