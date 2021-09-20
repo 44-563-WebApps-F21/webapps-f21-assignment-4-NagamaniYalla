@@ -29,3 +29,23 @@
 .LORDGORING{
     color:rgb(158, 126, 143);
 }
+table{
+    border:1px solid black;
+    padding :45px 30px 50px;
+    margin: 25px 50px 75px 120px;
+    width:50%;
+}
+th{
+    color:black;
+    border:1px solid black;
+    text-align:center;
+    background-color:rgb(224, 11, 11) ;
+}
+td{
+    color:rgb(1, 46, 25);
+    border: 1px solid black;
+    text-align: left;
+}
+tr:nth-child(even) {
+    background-color: rgb(218, 126, 210);
+}
